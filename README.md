@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/41961773/197017643-1b4638e2-5a20-4d98-
 
 
 For Step By Step Guide Follow Video Tutorials:
-- [Flutter Getx Rest API Tutorial - Fetching Data From Opensea Api](https://bit.ly/3d0N7Vx)
+- [Flutter Getx Rest API Tutorial - Registration & Login | Post Method](https://bit.ly/3VM30Rw)
 
 ## Links used in project:
 
