@@ -1,16 +1,27 @@
-# api_app
+# Flutter GetX Rest API POST Method Authentication
 
-A new Flutter project.
+Source Code for Flutter GetX Rest API Post Method.<br>
 
-## Getting Started
+## App Features
+- Register User.<br>
+- Login User.<br>
+- Save Token.<br>
+<br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/41961773/197017643-1b4638e2-5a20-4d98-a4fa-3e509ba27b5f.mp4
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+For Step By Step Guide Follow Video Tutorials:
+- [Flutter Getx Rest API Tutorial - Fetching Data From Opensea Api](https://bit.ly/3d0N7Vx)
+
+## Links used in project:
+
+- [Getx Package](https://bit.ly/3SobWuW)
+- [SharedPreference](https://pub.dev/packages/shared_preferences)
+- [Http Package](https://pub.dev/packages/http)
+<br><br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
